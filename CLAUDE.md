@@ -1,4 +1,4 @@
-# Claude iOS App Studio
+# Claude-Code-IOS-App-Studios
 
 This repository is a **studio template** for building iOS apps with **Claude Code** (and compatible tooling). It mirrors the coordination model of multi-agent game studio templates, but every agent, rule, and skill is scoped to **Swift, SwiftUI-first iOS delivery**, **App Store readiness**, **privacy**, **accessibility**, and **release hygiene**.
 

@@ -1,6 +1,6 @@
 ---
 name: start
-description: "First-time onboarding for iOS App Studio — asks where you are, then routes to the right workflow. No assumptions."
+description: "First-time onboarding for Claude-Code-IOS-App-Studios — asks where you are, then routes to the right workflow. No assumptions."
 argument-hint: "[no arguments]"
 user-invocable: true
 allowed-tools: Read, Glob, Grep, AskUserQuestion
@@ -30,7 +30,7 @@ Use findings to **validate** the user’s self-serve path later.
 
 Present four options clearly:
 
-> **Welcome to Claude iOS App Studio.**
+> **Welcome to Claude-Code-IOS-App-Studios.**
 >
 > Where are you starting from?
 >

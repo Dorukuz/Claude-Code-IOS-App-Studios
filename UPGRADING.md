@@ -1,4 +1,4 @@
-# Upgrading Claude iOS App Studio
+# Upgrading Claude-Code-IOS-App-Studios
 
 This document helps you merge new template versions into an existing project that was started from this repo.
 

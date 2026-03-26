@@ -1,10 +1,10 @@
 ---
-description: Claude iOS App Studio — follow CLAUDE.md and .claude/rules for Swift/iOS work
+description: Claude-Code-IOS-App-Studios — follow CLAUDE.md and .claude/rules for Swift/iOS work
 globs: ios/**/*
 alwaysApply: false
 ---
 
-# iOS App Studio (Cursor)
+# Claude-Code-IOS-App-Studios (Cursor)
 
 When editing under `ios/`, align with:
 

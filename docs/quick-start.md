@@ -1,4 +1,4 @@
-# Quick start — Claude iOS App Studio
+# Quick start — Claude-Code-IOS-App-Studios
 
 ## 1. Install tooling
 

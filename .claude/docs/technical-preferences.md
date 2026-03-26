@@ -1,4 +1,4 @@
-# Technical preferences — Claude iOS App Studio
+# Technical preferences — Claude-Code-IOS-App-Studios
 
 Edit this file to match **your** project. Hooks and `/start` use it to detect whether a project is still a “fresh template.”
 

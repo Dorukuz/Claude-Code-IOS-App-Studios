@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # SessionStart: context for Claude
 
-echo "=== Claude iOS App Studio — Session Context ==="
+echo "=== Claude-Code-IOS-App-Studios — Session Context ==="
 
 BRANCH=$(git rev-parse --abbrev-ref HEAD 2>/dev/null)
 if [ -n "$BRANCH" ]; then
