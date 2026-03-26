@@ -1,8 +1,6 @@
 # Claude iOS App Studio
 
-Turn a Claude Code session into a structured **iOS app development studio**: specialized agents, slash-command workflows, git hooks, and path-scoped rules for Swift/SwiftUI projects—plus a lightweight **[Cursor](https://cursor.com/)** rules mirror.
-
-Inspired by [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-Game-Studios), re-focused on shipping iOS apps (TestFlight, App Store, privacy, accessibility).
+Turn a Claude Code session into a structured **iOS app development studio**: specialized agents, slash-command workflows, git hooks, and path-scoped rules for Swift/SwiftUI projects—plus a lightweight **[Cursor](https://cursor.com/)** rules mirror. Focused on shipping iOS apps (TestFlight, App Store, privacy, accessibility).
 
 ---
 

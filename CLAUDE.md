@@ -53,7 +53,3 @@ See [README.md](README.md) for prerequisites and slash-command index.
 ## Cursor users
 
 Path-scoped standards are mirrored under [.cursor/rules/](.cursor/rules/). For agent roles in Cursor Agent, see [AGENTS.md](AGENTS.md).
-
-## Reference
-
-Inspired by the structure of [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) (agents, skills, hooks, rules), adapted for iOS application development.
