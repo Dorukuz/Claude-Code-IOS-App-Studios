@@ -1,0 +1,11 @@
+---
+description: ViewModels — MainActor, async orchestration, testable state
+globs: ios/**/*ViewModel.swift,ios/**/ViewModels/**/*.swift
+alwaysApply: false
+---
+
+# ViewModels
+
+- Own UI state; delegate I/O to services/use cases.
+- Use `@MainActor` for UI-driven types; structured concurrency with cancellation.
+- Avoid hidden singletons; prefer injection for tests.

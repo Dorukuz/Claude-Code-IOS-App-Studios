@@ -1,0 +1,10 @@
+---
+description: XCTest — deterministic, no prod network/credentials
+globs: ios/**/Tests/**/*.swift,ios/**/*Tests.swift
+alwaysApply: false
+---
+
+# Tests
+
+- Deterministic; stub network and time where needed.
+- No production credentials or endpoints in bundles.

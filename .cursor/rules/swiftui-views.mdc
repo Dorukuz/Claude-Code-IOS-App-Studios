@@ -1,0 +1,12 @@
+---
+description: SwiftUI views — no business logic, localized strings, accessibility
+globs: ios/**/Views/**/*.swift,ios/**/*View.swift
+alwaysApply: false
+---
+
+# SwiftUI views
+
+- No business logic or direct persistence in views; use ViewModels/services.
+- Localize user-visible strings; avoid hardcoded copy for release UI.
+- Add accessibility labels/hints where meaning isn't clear from controls alone.
+- Previews use mock data only (no secrets, no production URLs).

@@ -1,0 +1,47 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+Timeline.xctimeline
+Playground.workspace
+
+# Swift PM
+.build/
+.swiftpm/
+
+# CocoaPods / Carthage (if used)
+Pods/
+Carthage/Build/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Secrets — never commit
+.env
+.env.*
+*.mobileprovision
+*.p12
+AuthKey_*.p8
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# Session / local (optional; uncomment if you don't want logs in repo)
+# production/session-logs/

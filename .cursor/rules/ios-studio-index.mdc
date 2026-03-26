@@ -1,0 +1,16 @@
+---
+description: Claude iOS App Studio — follow CLAUDE.md and .claude/rules for Swift/iOS work
+globs: ios/**/*
+alwaysApply: false
+---
+
+# iOS App Studio (Cursor)
+
+When editing under `ios/`, align with:
+
+- [CLAUDE.md](../../CLAUDE.md) — collaboration protocol and defaults
+- [.claude/rules/](../../.claude/rules/) — authoritative path-scoped standards (SwiftUI views, ViewModels, services, networking, resources, tests)
+
+For product docs under `design/`, see `.claude/rules/design-prd.md`.
+
+Prefer SwiftUI-first UI, Swift 6 concurrency discipline, localized strings, and accessibility considerations for user-visible changes.
